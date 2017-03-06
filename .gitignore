@@ -6,8 +6,5 @@ yarn-error.log
 test/unit/coverage
 test/e2e/reports
 selenium-debug.log
-<<<<<<< Updated upstream
-=======
-node_modules
-node_modules
->>>>>>> Stashed changes
+.gitignore
+
