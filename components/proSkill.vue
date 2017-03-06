@@ -218,6 +218,7 @@
             pointLabelFontColor : "#666",
 
             //Boolean - Whether to show a dot for each point
+
             pointDot : true,
 
             //Number - Radius of each point dot in pixels
